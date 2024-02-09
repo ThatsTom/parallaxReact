@@ -8,7 +8,6 @@ import react from "./react.png";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 
-import logo from "./logo.svg";
 import { useEffect, useRef } from "react";
 
 export const Parallax2 = () => {
