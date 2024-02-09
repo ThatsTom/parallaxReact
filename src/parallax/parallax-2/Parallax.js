@@ -32,7 +32,7 @@ export const Parallax2 = () => {
 
   return (
     <>
-      <nav>''
+      <nav>
         <a href="#"> Inicio </a>
         <a href="#"> Habilidades </a>
         <a href="#"> Contato </a>

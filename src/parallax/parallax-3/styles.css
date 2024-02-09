@@ -39,3 +39,28 @@ h1 {
   font-size: 3em;
   font-weight: 400;
 }
+
+h2 {
+  color: white;
+  text-shadow: 1px 1px 3px black;
+  z-index: 0;
+  font-size: 3em;
+  font-weight: 400;
+}
+
+
+.botaoConfig{
+  display: flex;
+}
+
+.botao1{
+  margin-left: 20px;
+  color: #fff;
+  background-color: #000;
+}
+
+.botao1:hover{
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: #620f76;
+}
